@@ -1,0 +1,21 @@
+{
+  "ads": {
+    "data": [
+      {
+        "id": 1,
+        "title": "Marvel Super-Heroes Secret Wars",
+        "image": "https://img.gocollect.com/eyJidWNrZXQiOiJnb2NvbGxlY3QuaW1hZ2VzLnB1YiIsImtleSI6ImUwMDZmODA4LTdlNjItNGQ2Mi05ODljLTRiNWUxYWEzZGQ4Yi5qcGciLCJlZGl0cyI6W119"
+      },
+      {
+        "id": 2,
+        "title": "Spawn",
+        "image": "https://img.gocollect.com/eyJidWNrZXQiOiJnb2NvbGxlY3QuaW1hZ2VzLnB1YiIsImtleSI6ImMzMTY0M2UzLTVlMGQtNDM1Ni05MzE2LWQ1OTM2NTdjOTc1OC5qcGciLCJlZGl0cyI6W119"
+      },
+      {
+        "id": 3,
+        "title": "Venom: Lethal Protector",
+        "image": "https://img.gocollect.com/eyJidWNrZXQiOiJnb2NvbGxlY3QuaW1hZ2VzLnB1YiIsImtleSI6IjExMzdhOGRkLWM0MjMtNDAxZC04OTVhLTQ0YmY3NjNiN2RmMS5qcGciLCJlZGl0cyI6W119"
+      }
+    ]
+  }
+}
