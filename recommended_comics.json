@@ -5,48 +5,60 @@
       "title": "Star Wars: Darth Vader",
       "description": "Sprouse 50th Anniversary Variant",
       "image": "https://img.gocollect.com/eyJidWNrZXQiOiJnb2NvbGxlY3QuaW1hZ2VzLnB1YiIsImtleSI6ImE1MWExYWQ3LTBhZTItNDEwZS05OTQ0LWJkM2Q0N2ZhZjk3Ni5qcGciLCJlZGl0cyI6W119",
+      "author_name": "Raffaele Ienco",
       "old_price": 33.99,
-      "price": 28.99
+      "price": 28.99,
+      "publication_date": "2022-02-09"
     },
     {
       "id": 2,
       "title": "New Mutants",
       "description": "First appearance of Deadpool; First appearance of Copycat (Vanessa Carlysle) as Domino; First appearance of Gideon; Rictor leaves the New Mutants",
       "image": "https://img.gocollect.com/eyJidWNrZXQiOiJnb2NvbGxlY3QuaW1hZ2VzLnB1YiIsImtleSI6IjhmYjcxMzJiLTYwNzQtNGY2Yi05MTFiLWZjZWRmY2FlN2ZiZC5qcGciLCJlZGl0cyI6W119",
+      "author_name": "Rob Liefeld",
       "old_price": null,
-      "price": 40.99
+      "price": 40.99,
+      "publication_date": "1991-02-10"
     },
     {
       "id": 3,
       "title": "Moon Knight",
       "description": "First self-titled & on-going series; Origin of Moon Knight; First appearance of Bushman; First appearance of Konshu",
       "image": "https://img.gocollect.com/eyJidWNrZXQiOiJnb2NvbGxlY3QuaW1hZ2VzLnB1YiIsImtleSI6ImRiZDdmYmZlLWVjOTgtNDcyMy05ODI3LTNiZGRlMzU1N2MyNS5qcGciLCJlZGl0cyI6W119",
+      "author_name": "Bob Sharen",
       "old_price": 75.99,
-      "price": 62.99
+      "price": 62.99,
+      "publication_date": "1980-11-10"
     },
     {
       "id": 4,
       "title": "Fantastic Four",
       "description": "First appearance of Fantastic Four; First comic published under Marvel name; First appearance of Mole Man; Origin of Fantastic Four",
       "image": "https://img.gocollect.com/eyJidWNrZXQiOiJnb2NvbGxlY3QuaW1hZ2VzLnB1YiIsImtleSI6ImNlNGQ0Y2U4LTE2MzItNDA0Yi04OWE4LTA4MDVjZjA3ZDhjZS5qcGciLCJlZGl0cyI6W119",
+      "author_name": "Jack Kirby",
       "old_price": 11.99,
-      "price": 8.99
+      "price": 8.99,
+      "publication_date": "1961-08-08"
     },
     {
       "id": 5,
       "title": "Action Comics",
       "description": "Third Superman comic cover",
       "image": "https://img.gocollect.com/eyJidWNrZXQiOiJnb2NvbGxlY3QuaW1hZ2VzLnB1YiIsImtleSI6ImE2ZDE1NTVkLWQ4YzktNDc1ZS04MjI1LWE5YThmMjU2ZTVlYy5qcGciLCJlZGl0cyI6W119",
+      "author_name": "Sheldon Moldoff",
       "old_price": null,
-      "price": 5.99
+      "price": 5.99,
+      "publication_date": "1939-03-10"
     },
     {
       "id": 6,
       "title": "Richie Rich",
       "description": "First issue of Richie Rich",
       "image": "https://img.gocollect.com/eyJidWNrZXQiOiJnb2NvbGxlY3QuaW1hZ2VzLnB1YiIsImtleSI6IjFjZDU2ZmZlLTNjOGEtNGFmMi1iNzYzLTRiOWZhMjdmNWIzMi5qcGciLCJlZGl0cyI6W119",
+      "author_name": "Warren Kremer",
       "old_price": 6.99,
-      "price": 2.99
+      "price": 2.99,
+      "publication_date": "1960-11-10"
     }
   ]
 }
