@@ -8,7 +8,8 @@
       "author_name": "Russell Dauterman",
       "old_price": 17.99,
       "price": 10.99,
-      "publication_date": "1984-05-10"
+      "publication_date": "1984-05-10",
+      "tags": ["Novel", "Literature"]
     },
     {
       "id": 2,
@@ -18,7 +19,8 @@
       "author_name": "Ken Steacy",
       "old_price": null,
       "price": 30.99,
-      "publication_date": "1992-05-10"
+      "publication_date": "1992-05-10",
+      "tags": ["Action", "Literature"]
     },
     {
       "id": 3,
@@ -28,7 +30,8 @@
       "author_name": "Marie Javins",
       "old_price": 22.99,
       "price": 21.99,
-      "publication_date": "1993-01-31"
+      "publication_date": "1993-01-31",
+      "tags": ["Action", "Adventure"]
     }
   ]
 }

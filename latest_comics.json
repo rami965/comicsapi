@@ -8,7 +8,8 @@
       "author_name": "Russell Dauterman",
       "old_price": 37.99,
       "price": 30.99,
-      "publication_date": "2014-10-01"
+      "publication_date": "2014-10-01",
+      "tags": ["Action", "Literature"]
     },
     {
       "id": 2,
@@ -18,7 +19,8 @@
       "author_name": "Glynis Wein",
       "old_price": 45.99,
       "price": 42.99,
-      "publication_date": "1982-08-31"
+      "publication_date": "1982-08-31",
+      "tags": ["Novel", "Adventure"]
     },
     {
       "id": 3,
@@ -28,7 +30,8 @@
       "author_name": "Rick Parker",
       "old_price": null,
       "price": 31.99,
-      "publication_date": "1992-04-01"
+      "publication_date": "1992-04-01",
+      "tags": ["Action", "Superheros"]
     },
     {
       "id": 4,
@@ -38,7 +41,8 @@
       "author_name": "Brian K. Vaughan",
       "old_price": 55.99,
       "price": 30.99,
-      "publication_date": "2015-10-07"
+      "publication_date": "2015-10-07",
+      "tags": ["Novel", "Romance"]
     },
     {
       "id": 5,
@@ -48,7 +52,8 @@
       "author_name": "Marvel",
       "old_price": null,
       "price": 45.0,
-      "publication_date": "2011-09-30"
+      "publication_date": "2011-09-30",
+      "tags": ["Action", "Sci-Fi"]
     },
     {
       "id": 6,
@@ -58,7 +63,8 @@
       "author_name": "Joe Rosas",
       "old_price": null,
       "price": 22.0,
-      "publication_date": "1991-09-30"
+      "publication_date": "1991-09-30",
+      "tags": ["Action", "Adventure"]
     }
   ]
 }

@@ -8,7 +8,8 @@
       "author_name": "Raffaele Ienco",
       "old_price": 33.99,
       "price": 28.99,
-      "publication_date": "2022-02-09"
+      "publication_date": "2022-02-09",
+      "tags": ["Action", "Literature"]
     },
     {
       "id": 2,
@@ -18,7 +19,8 @@
       "author_name": "Rob Liefeld",
       "old_price": null,
       "price": 40.99,
-      "publication_date": "1991-02-10"
+      "publication_date": "1991-02-10",
+      "tags": ["Superheros", "Sci-Fi"]
     },
     {
       "id": 3,
@@ -28,7 +30,8 @@
       "author_name": "Bob Sharen",
       "old_price": 75.99,
       "price": 62.99,
-      "publication_date": "1980-11-10"
+      "publication_date": "1980-11-10",
+      "tags": ["Superheros", "Action"]
     },
     {
       "id": 4,
@@ -38,7 +41,8 @@
       "author_name": "Jack Kirby",
       "old_price": 11.99,
       "price": 8.99,
-      "publication_date": "1961-08-08"
+      "publication_date": "1961-08-08",
+      "tags": ["Sci-Fi", "Literature"]
     },
     {
       "id": 5,
@@ -48,7 +52,8 @@
       "author_name": "Sheldon Moldoff",
       "old_price": null,
       "price": 5.99,
-      "publication_date": "1939-03-10"
+      "publication_date": "1939-03-10",
+      "tags": ["Novel", "Adventure"]
     },
     {
       "id": 6,
@@ -58,7 +63,8 @@
       "author_name": "Warren Kremer",
       "old_price": 6.99,
       "price": 2.99,
-      "publication_date": "1960-11-10"
+      "publication_date": "1960-11-10",
+      "tags": ["Adventure", "Literature"]
     }
   ]
 }
