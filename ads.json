@@ -2,8 +2,10 @@
   "data": [
     {
       "id": 1,
-      "title": "Marvel Super-Heroes Secret Wars",
-      "description": "First issue in titled series",
+      "title_en": "Marvel Super-Heroes Secret Wars",
+      "title_ar": "مارفل الحروب السرية",
+      "description_en": "First issue in titled series",
+      "description_ar": "العدد الاول في السلسلة",
       "image": "https://img.gocollect.com/eyJidWNrZXQiOiJnb2NvbGxlY3QuaW1hZ2VzLnB1YiIsImtleSI6ImUwMDZmODA4LTdlNjItNGQ2Mi05ODljLTRiNWUxYWEzZGQ4Yi5qcGciLCJlZGl0cyI6W119",
       "author_name": "Russell Dauterman",
       "old_price": 17.99,
@@ -13,8 +15,10 @@
     },
     {
       "id": 2,
-      "title": "Spawn",
-      "description": "First appearance of Spawn; First appearance of Wanda Blake; First appearance of Malebolgia; First appearance of Sam and Twitch",
+      "title_en": "Spawn",
+      "title_ar": "سباون",
+      "description_en": "First appearance of Spawn; First appearance of Wanda Blake; First appearance of Malebolgia; First appearance of Sam and Twitch",
+      "description_ar": "الظهور الاول لواندا بليك وسام و تويتش",
       "image": "https://img.gocollect.com/eyJidWNrZXQiOiJnb2NvbGxlY3QuaW1hZ2VzLnB1YiIsImtleSI6ImMzMTY0M2UzLTVlMGQtNDM1Ni05MzE2LWQ1OTM2NTdjOTc1OC5qcGciLCJlZGl0cyI6W119",
       "author_name": "Ken Steacy",
       "old_price": null,
@@ -24,8 +28,10 @@
     },
     {
       "id": 3,
-      "title": "Venom: Lethal Protector",
-      "description": "First Venom titled series; First appearance of General Orwell Taylor",
+      "title_en": "Venom: Lethal Protector",
+      "title_ar": "فينوم",
+      "description_en": "First Venom titled series; First appearance of General Orwell Taylor",
+      "description_ar": "اول سلسلة تحمل اسم فينوم",
       "image": "https://img.gocollect.com/eyJidWNrZXQiOiJnb2NvbGxlY3QuaW1hZ2VzLnB1YiIsImtleSI6IjExMzdhOGRkLWM0MjMtNDAxZC04OTVhLTQ0YmY3NjNiN2RmMS5qcGciLCJlZGl0cyI6W119",
       "author_name": "Marie Javins",
       "old_price": 22.99,
