@@ -2,16 +2,18 @@
   "data": [
     {
       "id": 1,
-      "title_en": "Thor",
-      "title_ar": "ثور",
-      "description_en": "Jane Foster becomes the new Thor.",
-      "description_ar": "جين فوستر يصبح ثور الجديد",
-      "image": "https://img.gocollect.com/eyJidWNrZXQiOiJnb2NvbGxlY3QuaW1hZ2VzLnB1YiIsImtleSI6Ijk2YzhmNzYxLTk3ZGYtNDU3My1iMzM1LTY5N2ZiZTM5MzgyZC5qcGciLCJlZGl0cyI6W119",
-      "author_name": "Russell Dauterman",
-      "old_price": 37.99,
-      "price": 30.99,
-      "publication_date": "2014-10-01",
-      "tags": ["Action", "ادب"]
+      "title_en": "Ra'ad",
+      "title_ar": "رعد",
+      "description_en": "The city of sand",
+      "description_ar": "مدينة الرمال",
+      "image": "https://i.ibb.co/m4Mdh61/Screen-Shot-2022-11-08-at-3-20-15-PM.png",
+      "author_name": "Sahara",
+      "old_price": 17.99,
+      "price": 10.99,
+      "publication_date": "2020-05-10",
+      "tags": ["Novel", "Literature"],
+      "type": "pdf",
+      "url": "https://ia802605.us.archive.org/26/items/Captain_Marvel_Adventures_005/Captain_Marvel_Adventures_005.pdf"
     },
     {
       "id": 2,
@@ -24,7 +26,9 @@
       "old_price": 45.99,
       "price": 42.99,
       "publication_date": "1982-08-31",
-      "tags": ["Novel", "Adventure"]
+      "tags": ["Novel", "Adventure"],
+      "type": "pdf",
+      "url": "https://ia802605.us.archive.org/26/items/Captain_Marvel_Adventures_005/Captain_Marvel_Adventures_005.pdf"
     },
     {
       "id": 3,
@@ -37,7 +41,9 @@
       "old_price": null,
       "price": 31.99,
       "publication_date": "1992-04-01",
-      "tags": ["اكشن", "Superheros"]
+      "tags": ["اكشن", "Superheros"],
+      "type": "pdf",
+      "url": "https://ia802605.us.archive.org/26/items/Captain_Marvel_Adventures_005/Captain_Marvel_Adventures_005.pdf"
     },
     {
       "id": 4,
@@ -50,7 +56,9 @@
       "old_price": 55.99,
       "price": 30.99,
       "publication_date": "2015-10-07",
-      "tags": ["رواية", "Romance"]
+      "tags": ["رواية", "Romance"],
+      "type": "video",
+      "url": "https://ia802605.us.archive.org/26/items/Captain_Marvel_Adventures_005/Captain_Marvel_Adventures_005.pdf"
     },
     {
       "id": 5,
@@ -63,7 +71,9 @@
       "old_price": null,
       "price": 45.0,
       "publication_date": "2011-09-30",
-      "tags": ["Action", "خيال علمي"]
+      "tags": ["Action", "خيال علمي"],
+      "type": "pdf",
+      "url": "https://ia802605.us.archive.org/26/items/Captain_Marvel_Adventures_005/Captain_Marvel_Adventures_005.pdf"
     },
     {
       "id": 6,
@@ -76,7 +86,9 @@
       "old_price": null,
       "price": 22.0,
       "publication_date": "1991-09-30",
-      "tags": ["Action", "Adventure"]
+      "tags": ["Action", "Adventure"],
+      "type": "video",
+      "url": "https://ia802605.us.archive.org/26/items/Captain_Marvel_Adventures_005/Captain_Marvel_Adventures_005.pdf"
     }
   ]
 }
