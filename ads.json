@@ -12,8 +12,8 @@
       "price": 10.99,
       "publication_date": "2020-05-10",
       "tags": ["Novel", "Literature"],
-      "type": "pdf",
-      "url": "https://ia802605.us.archive.org/26/items/Captain_Marvel_Adventures_005/Captain_Marvel_Adventures_005.pdf"
+      "video_url": null,
+      "pdf_url": "https://ia802605.us.archive.org/26/items/Captain_Marvel_Adventures_005/Captain_Marvel_Adventures_005.pdf"
     },
     {
       "id": 2,
@@ -27,8 +27,8 @@
       "price": 30.99,
       "publication_date": "1992-05-10",
       "tags": ["Action", "Literature"],
-      "type": "video",
-      "url": null
+      "video_url": null,
+      "pdf_url": null
     },
     {
       "id": 3,
@@ -42,8 +42,8 @@
       "price": 21.99,
       "publication_date": "1993-01-31",
       "tags": ["Action", "Adventure"],
-      "type": "video",
-      "url": null
+      "video_url": null,
+      "pdf_url": "https://ia802605.us.archive.org/26/items/Captain_Marvel_Adventures_005/Captain_Marvel_Adventures_005.pdf"
     }
   ]
 }
