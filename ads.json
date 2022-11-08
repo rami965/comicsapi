@@ -27,8 +27,8 @@
       "price": 30.99,
       "publication_date": "1992-05-10",
       "tags": ["Action", "Literature"],
-      "video_url": null,
-      "pdf_url": null
+      "video_url": "https://file-examples.com/storage/fe8c7eef0c6364f6c9504cc/2017/04/file_example_MP4_480_1_5MG.mp4",
+      "pdf_url": "https://ia802605.us.archive.org/26/items/Captain_Marvel_Adventures_005/Captain_Marvel_Adventures_005.pdf"
     },
     {
       "id": 3,
@@ -42,8 +42,8 @@
       "price": 21.99,
       "publication_date": "1993-01-31",
       "tags": ["Action", "Adventure"],
-      "video_url": null,
-      "pdf_url": "https://ia802605.us.archive.org/26/items/Captain_Marvel_Adventures_005/Captain_Marvel_Adventures_005.pdf"
+      "video_url": "https://file-examples.com/storage/fe8c7eef0c6364f6c9504cc/2017/04/file_example_MP4_480_1_5MG.mp4",
+      "pdf_url": null
     }
   ]
 }
